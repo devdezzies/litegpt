@@ -1,3 +1,4 @@
 # LiteGPT 
 
-- Char-by-char generation 
+- decoder only transformer
+- char-level tokenization
